@@ -1,0 +1,3 @@
+this is the file.
+hello world!
+conflict
